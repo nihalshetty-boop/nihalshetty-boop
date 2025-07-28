@@ -1,5 +1,5 @@
 <!-- Hero image -->
-<img src="./hero_image.png" alt="Abstract developer hero" width="100%" />
+<img src="./hero_image.png" alt="Abstract developer hero" width="75%" />
 
 <p align="center">
   <img src="https://count.getloli.com/get/@nihalshetty?theme=3d-num" alt="visitor badge"/>
