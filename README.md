@@ -12,8 +12,6 @@
 
 I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Senior Consultant** to help organizations modernize their software infrastructure. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=nihalshetty-boop&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
 
 ## 🎓 Education
@@ -61,23 +59,12 @@ I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate 
   <img src="https://github-profile-trophy.vercel.app/?username=nihalshetty-boop&theme=algolia&no-frame=true&no-bg=true&margin-w=5&margin-h=5" alt="GitHub trophies" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/nihalshetty-boop?template=classic&base=header,activity,community,repositories&config.timezone=America%2FIndiana%2FIndianapolis" alt="GitHub metrics" />
-</p>
-
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nihalshetty-boop&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=nihalshetty-boop&theme=react&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalshetty-boop&hide=jupyter%20notebook,matlab&layout=compact&theme=tokyonight" />
 </p>
-
-<!-- Optional activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nihalshetty-boop&theme=react-dark&hide_border=true" />
-</p>
-
 
 ## ✉️ Get in Touch
 
