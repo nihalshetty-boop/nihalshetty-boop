@@ -78,7 +78,7 @@ I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate 
 ## 🏆 GitHub Trophies & Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nihalshetty-boop&theme=algolia&no-frame=true&no-bg=true&margin-w=5&margin-h=5" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nihalshetty-boop&theme=algolia&no-frame=true&rank=-C&no-bg=true&margin-w=5&margin-h=5" alt="GitHub trophies" />
 </p>
 
 ## 📈 GitHub Stats & Activity
