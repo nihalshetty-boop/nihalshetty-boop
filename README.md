@@ -85,7 +85,7 @@ I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate 
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nihalshetty-boop&theme=synthwave&show_icons=true&hide_border=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalshetty-boop&theme=synthwave&hide_border=false" />
+![nihalshetty-boop's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nihalshetty-boop&theme=synthwave&hide_border=false)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalshetty-boop&hide=jupyter%20notebook,matlab&layout=compact&theme=tokyonight" />
 </p>
 
