@@ -1,3 +1,7 @@
+# 👋 Hi there, I’m **Nihal Shetty**
+
+I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Senior Consultant** to help organizations modernize their software infrastructure. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
+
 <!-- Hero image -->
 <img src="./hero_image.png" alt="Abstract developer hero" width="100%" />
 
@@ -7,12 +11,6 @@
 
 <img src="https://img.shields.io/badge/Available%20for%20hire-Yes-success?style=flat-square&logo=LinkedIn" />
 <img src="https://img.shields.io/badge/Working%20on-Listri-blue?style=flat-square" />
-
-# 👋 Hi there, I’m **Nihal Shetty**
-
-I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Senior Consultant** to help organizations modernize their software infrastructure. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
-
-</div>
 
 ## 🎓 Education
 
@@ -86,7 +84,8 @@ I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate 
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nihalshetty-boop&theme=synthwave&show_icons=true&hide_border=false&count_private=true" />  
+<img src="https://github-readme-stats.vercel.app/api?username=nihalshetty-boop&theme=synthwave&show_icons=true&hide_border=false&count_private=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nihalshetty-boop&theme=synthwave&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihalshetty-boop&hide=jupyter%20notebook,matlab&layout=compact&theme=tokyonight" />
 </p>
 
