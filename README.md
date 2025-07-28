@@ -8,8 +8,6 @@
 <img src="https://img.shields.io/badge/Available%20for%20hire-Yes-success?style=flat-square&logo=LinkedIn" />
 <img src="https://img.shields.io/badge/Working%20on-Listri-blue?style=flat-square" />
 
-![snake gif](https://github.com/nihalshetty-boop/nihalshetty-boop/blob/output/github-contribution-grid-snake.svg)
-
 # 👋 Hi there, I’m **Nihal Shetty**
 
 I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Senior Consultant** to help organizations modernize their software infrastructure. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
