@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Nihal Shetty**
 
-I’m a **Software Engineer** and **Full‑Stack/DevOps enthusiast** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Senior Consultant** to help organizations modernize their software infrastructure. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
+I’m a **Software Engineer** passionate about crafting scalable web and mobile applications. I’ve recently graduated with an **M.S. in Computer Science** at *Indiana University* and I’m working as a **Software Engineer** to build an online platform. My mission is to leverage technology to solve real‑world problems and create meaningful user experiences.
 
 <!-- Hero image -->
 <img src="./hero_image.png" alt="Abstract developer hero" width="100%" />
