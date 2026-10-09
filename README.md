@@ -9,7 +9,6 @@ I’m a **Software Engineer** passionate about crafting scalable web and mobile 
   <img src="https://count.getloli.com/get/@nihalshetty?theme=3d-num" alt="visitor badge"/>
 </p>
 
-<img src="https://img.shields.io/badge/Available%20for%20hire-Yes-success?style=flat-square&logo=LinkedIn" />
 <img src="https://img.shields.io/badge/Working%20on-Listri-blue?style=flat-square" />
 
 ## 🎓 Education
